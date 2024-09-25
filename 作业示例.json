@@ -1,6 +1,6 @@
 {
-	"password": "b8zz3j",
-	"deploy": "1wkx3h",
+	"password": "",
+	"deploy": "",
 	"question": [
 		{
 			"title": "LaTex公式：$E=m c^{2}, \sin2\theta=2\sin\theta\cos\theta$，换行：$\\$将变量x设置为0.1到0.7之间，以0.05为间隔的随机数: $x$为$@x{0.1:0.7:0.05}m$$\\$将变量y设置为变量'x'的2倍：$y$为$@y{2*x}m$$\\$将变量z在列表[0.1,1,3,-1]中随机取值$z$为$@z{0.1,1,3,-1}$",
