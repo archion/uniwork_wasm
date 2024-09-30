@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/uniwork_wasm/:path*", "destination": "/:path*" }
-  ]
-}
-
